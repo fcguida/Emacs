@@ -4,7 +4,7 @@ Some emacs lisp files, functions and settings:
 
 ----------
 ### mouse.el
-Some handy single mouse click fxns to delete the sexp at point and snarf a
+Handy single mouse click fxns to delete the sexp at point and snarf a
 new one and insert it. The real power is working in split windows - works
 from other windows, but not from other frames just yet. Example bindings are
 at the end of the file.
